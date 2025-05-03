@@ -16,7 +16,7 @@ document.body.appendChild(renderer.domElement);
 
 // Color del fondo inicial
 const params = {
-  color: '#ffffff'
+  color: '#000000'
 };
 scene.background = new THREE.Color(params.color); 
 
